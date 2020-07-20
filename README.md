@@ -1,5 +1,7 @@
 # dockerized_mts
 
+**NOTE: this repository is now updated at [cmap/dockerized_mts](https://github.com/cmap/dockerized_mts)**
+
 Dockerized version of the PRISM MTS pipeline. For use with Merino pipeline output or [clue.io](clue.io) datasets.
 
 To get the associated docker image run:
